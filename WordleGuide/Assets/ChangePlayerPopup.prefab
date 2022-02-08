@@ -488,7 +488,7 @@ GameObject:
   - component: {fileID: 6284400454288003594}
   - component: {fileID: 6284400454288003595}
   m_Layer: 5
-  m_Name: ChangePlayerPopup (1)
+  m_Name: ChangePlayerPopup
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
