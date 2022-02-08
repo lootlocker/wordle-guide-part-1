@@ -1,0 +1,11 @@
+WordleGuide/Library/
+WordleGuide/.vs/
+*.sln
+*.csproj
+*.vsconfig
+WordleGuide/obj/
+WordleGuide/PC/
+WordleGuide/Logs/
+WordleGuide/WebGL/
+WordleGuide/UserSettings/
+WordleGuide/Temp/
