@@ -3,6 +3,6 @@ This is a prototype in Unity of the game Wordle (https://www.powerlanguage.co.uk
 ![](https://github.com/LootLocker/wordle-guide-part-1/blob/main/WordlePrototypeGamePlay.gif)
 
 # Follow the guide here:
-(link to guide coming soon)
+https://www.lootlocker.io/blog/post/how-to-make-wordle-in-unity-part-1/
 
 
